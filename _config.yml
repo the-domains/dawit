@@ -1,0 +1,28 @@
+name: Dawit
+favicon: null
+layout_spectrum: 0.32558
+typography_spectrum: 0.8213924211449921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18269140040501952
+  lightness: 0.30818925821222365
+  saturation: 0.45629315823316574
+  rhythmicContrast: 0.7555886991322041
+purpose: []

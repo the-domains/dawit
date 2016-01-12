@@ -1,4 +1,5 @@
-layout_spectrum: 0
+favicon: null
+name: Dawit
 opengraph:
   image: null
   type: null
@@ -18,23 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.4562932
+  lightness: 0
   brandStrength: 0.1826914004050195
-  lightness: 0.2401434
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0.7555887
+  rhythmicContrast: 0.6702509
 typography_spectrum: 0.8213924211449921
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Dawit
+cta:
+  bucket: null
+  version: null
+  domain: null

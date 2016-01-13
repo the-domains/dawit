@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T15:43:30.917Z'
-dateModified: '2016-01-12T15:43:15.910Z'
+datePublished: '2016-01-13T01:12:54.962Z'
+dateModified: '2016-01-12T15:43:30.917Z'
 title: Arsène Wenger
 author: []
 sourcePath: _posts/2016-01-12-arsene-wenger.md
